@@ -1,0 +1,586 @@
+{
+  "-N4SWCnP5uAPMk2vlgsh": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623138,
+    "longitude": 31.5600811,
+    "snapshot_datetime": "2022-06-13 16:43:17.338230"
+  },
+  "-N4SWDqDqUVYxPTGsEYr": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623138,
+    "longitude": 31.5600811,
+    "snapshot_datetime": "2022-06-13 16:43:21.614333"
+  },
+  "-N4SWFG074ZdMJm5B7h3": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623138,
+    "longitude": 31.5600811,
+    "snapshot_datetime": "2022-06-13 16:43:27.425884"
+  },
+  "-N4SWG6b3kT3WQxIjw_x": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623138,
+    "longitude": 31.5600811,
+    "snapshot_datetime": "2022-06-13 16:43:30.918961"
+  },
+  "-N4SWHi3Zq_pQl99SaVN": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623139,
+    "longitude": 31.5600813,
+    "snapshot_datetime": "2022-06-13 16:43:37.476021"
+  },
+  "-N4SWIlaMd9-BvM8diNc": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623139,
+    "longitude": 31.5600813,
+    "snapshot_datetime": "2022-06-13 16:43:41.797986"
+  },
+  "-N4SWK8j8nrHJM3IAD5T": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623138,
+    "longitude": 31.5600811,
+    "snapshot_datetime": "2022-06-13 16:43:47.439838"
+  },
+  "-N4SWL2C5LCjPX7i6QI-": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623138,
+    "longitude": 31.5600811,
+    "snapshot_datetime": "2022-06-13 16:43:51.117496"
+  },
+  "-N4SWMYu55-vhNbouan8": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623139,
+    "longitude": 31.5600813,
+    "snapshot_datetime": "2022-06-13 16:43:57.306207"
+  },
+  "-N4SWNfI7sQ_vAQTSrAt": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623139,
+    "longitude": 31.5600813,
+    "snapshot_datetime": "2022-06-13 16:44:01.875844"
+  },
+  "-N4SWWUYnUEATyTknHYK": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623137,
+    "longitude": 31.560081,
+    "snapshot_datetime": "2022-06-13 16:44:37.986890"
+  },
+  "-N4SWhWwmT0dk_4SJ9di": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.562313,
+    "longitude": 31.5600803,
+    "snapshot_datetime": "2022-06-13 16:45:27.290288"
+  },
+  "-N4SWlglJa020PcLxjV6": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623179,
+    "longitude": 31.5600719,
+    "snapshot_datetime": "2022-06-13 16:45:44.368899"
+  },
+  "-N4SWmYj-R3scGmbScua": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623179,
+    "longitude": 31.5600719,
+    "snapshot_datetime": "2022-06-13 16:45:47.887601"
+  },
+  "-N4SWnrnxEnoNDsOZgFT": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623205,
+    "longitude": 31.560072,
+    "snapshot_datetime": "2022-06-13 16:45:53.267352"
+  },
+  "-N4SWofhil4BPVe26QZS": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623205,
+    "longitude": 31.560072,
+    "snapshot_datetime": "2022-06-13 16:45:56.588910"
+  },
+  "-N4SWpZdz6KaIl0D1eLa": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623141,
+    "longitude": 31.5600813,
+    "snapshot_datetime": "2022-06-13 16:46:00.233319"
+  },
+  "-N4SWqGfbCAVE10-cft0": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623141,
+    "longitude": 31.5600813,
+    "snapshot_datetime": "2022-06-13 16:46:03.115500"
+  },
+  "-N4SWrxqq5v1bJ3nEaq7": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.562315,
+    "longitude": 31.5600817,
+    "snapshot_datetime": "2022-06-13 16:46:10.037966"
+  },
+  "-N4SWslZsGUG8Gra97pc": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.562315,
+    "longitude": 31.5600817,
+    "snapshot_datetime": "2022-06-13 16:46:13.348394"
+  },
+  "-N4SWu_-V4r0v1AYFlXS": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623171,
+    "longitude": 31.5600722,
+    "snapshot_datetime": "2022-06-13 16:46:20.735918"
+  },
+  "-N4SWvMdB0BVogQL7wCE": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623171,
+    "longitude": 31.5600722,
+    "snapshot_datetime": "2022-06-13 16:46:23.977142"
+  },
+  "-N4SWwfpbLqaUgbwhDgb": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623133,
+    "longitude": 31.5600712,
+    "snapshot_datetime": "2022-06-13 16:46:29.365186"
+  },
+  "-N4SWxaQmNgHSchSlyID": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623133,
+    "longitude": 31.5600712,
+    "snapshot_datetime": "2022-06-13 16:46:33.115088"
+  },
+  "-N4SjI94M7Zxos0GNY9E": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623136,
+    "longitude": 31.5600771,
+    "snapshot_datetime": "2022-06-13 17:44:49.285132"
+  },
+  "-N4SjItOUT3JMrhDL6_k": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623136,
+    "longitude": 31.5600771,
+    "snapshot_datetime": "2022-06-13 17:44:52.312976"
+  },
+  "-N4SjKP_Y60lWhsLUTK6": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623144,
+    "longitude": 31.5600748,
+    "snapshot_datetime": "2022-06-13 17:44:58.533311"
+  },
+  "-N4SjLSPqTQxwtDMhvLe": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623144,
+    "longitude": 31.5600748,
+    "snapshot_datetime": "2022-06-13 17:45:02.810500"
+  },
+  "-N4SjPQq_B4JYzXdty95": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623136,
+    "longitude": 31.5600811,
+    "snapshot_datetime": "2022-06-13 17:45:19.094332"
+  },
+  "-N4SjQE7za2NWymnA3de": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623136,
+    "longitude": 31.5600811,
+    "snapshot_datetime": "2022-06-13 17:45:22.376855"
+  },
+  "-N4SjRuDobFwT7-oHzsQ": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623136,
+    "longitude": 31.5600811,
+    "snapshot_datetime": "2022-06-13 17:45:29.230249"
+  },
+  "-N4SjSlv8qksQd62nrLs": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623136,
+    "longitude": 31.5600811,
+    "snapshot_datetime": "2022-06-13 17:45:32.795634"
+  },
+  "-N4SjUCf8tVogRq5VOdr": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623136,
+    "longitude": 31.560081,
+    "snapshot_datetime": "2022-06-13 17:45:38.667151"
+  },
+  "-N4SjV7dGiRJ8D5asqNG": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623136,
+    "longitude": 31.560081,
+    "snapshot_datetime": "2022-06-13 17:45:42.441726"
+  },
+  "-N4SjWiujDcaln30LtCE": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623136,
+    "longitude": 31.5600811,
+    "snapshot_datetime": "2022-06-13 17:45:48.986065"
+  },
+  "-N4SjXmjqYKi8rv4yN_L": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623136,
+    "longitude": 31.5600811,
+    "snapshot_datetime": "2022-06-13 17:45:53.326974"
+  },
+  "-N4Sj_BALPVgONODQuVC": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.562314,
+    "longitude": 31.5600775,
+    "snapshot_datetime": "2022-06-13 17:46:03.147514"
+  },
+  "-N4Sj_ecTs70qTcRQksJ": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.562314,
+    "longitude": 31.5600775,
+    "snapshot_datetime": "2022-06-13 17:46:05.096011"
+  },
+  "-N4SjaQOwQWrYu801-NA": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.562314,
+    "longitude": 31.5600774,
+    "snapshot_datetime": "2022-06-13 17:46:08.217770"
+  },
+  "-N4SjbTEO8ID9TCFqhh0": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623145,
+    "longitude": 31.5600761,
+    "snapshot_datetime": "2022-06-13 17:46:12.494946"
+  },
+  "-N4SjdFl9b1Qrv_2nUq-": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623136,
+    "longitude": 31.560081,
+    "snapshot_datetime": "2022-06-13 17:46:19.825289"
+  },
+  "-N4SjdvrSR6DuwjUvwea": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623136,
+    "longitude": 31.560081,
+    "snapshot_datetime": "2022-06-13 17:46:22.583495"
+  },
+  "-N4SjfSEj1dV9KKNzyez": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623136,
+    "longitude": 31.5600811,
+    "snapshot_datetime": "2022-06-13 17:46:28.815711"
+  },
+  "-N4Sjg_3LRNaBp2htdgc": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623136,
+    "longitude": 31.5600811,
+    "snapshot_datetime": "2022-06-13 17:46:33.412882"
+  },
+  "-N4Sjhqpu4FxAqD6KR1H": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623123,
+    "longitude": 31.5600753,
+    "snapshot_datetime": "2022-06-13 17:46:38.645075"
+  },
+  "-N4SjivtCcJBJHNMAsqf": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623123,
+    "longitude": 31.5600753,
+    "snapshot_datetime": "2022-06-13 17:46:43.065427"
+  },
+  "-N4Sjk8MhY3mpzPsz6Tr": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623123,
+    "longitude": 31.5600752,
+    "snapshot_datetime": "2022-06-13 17:46:48.023476"
+  },
+  "-N4SjlC0rRkjFKA5grKW": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623136,
+    "longitude": 31.5600818,
+    "snapshot_datetime": "2022-06-13 17:46:52.353040"
+  },
+  "-N4SjmymmwPxVTpFhgFh": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623137,
+    "longitude": 31.5600816,
+    "snapshot_datetime": "2022-06-13 17:46:59.634872"
+  },
+  "-N4SjnbUPPS85XcsaERk": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623137,
+    "longitude": 31.5600816,
+    "snapshot_datetime": "2022-06-13 17:47:02.239515"
+  },
+  "-N4Sjp9eUVlBrC_0Evkl": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623137,
+    "longitude": 31.5600814,
+    "snapshot_datetime": "2022-06-13 17:47:08.585998"
+  },
+  "-N4Sjq4ZfwCnQoiqiYVn": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623137,
+    "longitude": 31.5600814,
+    "snapshot_datetime": "2022-06-13 17:47:12.356829"
+  },
+  "-N4SjvmiPiZN_DdkFIjn": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623137,
+    "longitude": 31.5600814,
+    "snapshot_datetime": "2022-06-13 17:47:35.726825"
+  },
+  "-N4Sjy7ieHMEv7URc79c": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623137,
+    "longitude": 31.560081,
+    "snapshot_datetime": "2022-06-13 17:47:45.326288"
+  },
+  "-N4Sjz4UnvMIrOa4lwQ9": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623137,
+    "longitude": 31.560081,
+    "snapshot_datetime": "2022-06-13 17:47:49.215662"
+  },
+  "-N4Sk-cPcB9xsRikXc-D": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623138,
+    "longitude": 31.5600811,
+    "snapshot_datetime": "2022-06-13 17:47:55.546822"
+  },
+  "-N4Sk0C8NIvG5hDaejbi": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623138,
+    "longitude": 31.5600811,
+    "snapshot_datetime": "2022-06-13 17:47:57.897783"
+  },
+  "-N4SlN67ii-oWB6gJRQU": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623137,
+    "longitude": 31.560081,
+    "snapshot_datetime": "2022-06-13 17:53:53.864326"
+  },
+  "-N4SlNSrwCjW95_f9BIq": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623137,
+    "longitude": 31.560081,
+    "snapshot_datetime": "2022-06-13 17:53:55.319067"
+  },
+  "-N4SlOKBp5Eoscx22yDc": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623137,
+    "longitude": 31.560081,
+    "snapshot_datetime": "2022-06-13 17:53:58.860008"
+  },
+  "-N4SlPnzOI1SHG7g1O7R": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623136,
+    "longitude": 31.5600811,
+    "snapshot_datetime": "2022-06-13 17:54:04.927308"
+  },
+  "-N4SlQjKQFFpQSKt5dZ6": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623136,
+    "longitude": 31.5600811,
+    "snapshot_datetime": "2022-06-13 17:54:08.725654"
+  },
+  "-N4SlSPMwcTAxlBvp8jd": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623131,
+    "longitude": 31.5600779,
+    "snapshot_datetime": "2022-06-13 17:54:15.575199"
+  },
+  "-N4SlTbO5cE3Da3YSQq5": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623137,
+    "longitude": 31.5600815,
+    "snapshot_datetime": "2022-06-13 17:54:20.505762"
+  },
+  "-N4SlURYompDXgwkajN3": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623137,
+    "longitude": 31.5600815,
+    "snapshot_datetime": "2022-06-13 17:54:23.907317"
+  },
+  "-N4SlWT4OV7bCUo1LbbF": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623132,
+    "longitude": 31.5600773,
+    "snapshot_datetime": "2022-06-13 17:54:32.197111"
+  },
+  "-N4SlYJejsgxLQ_wGFkP": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623139,
+    "longitude": 31.5600758,
+    "snapshot_datetime": "2022-06-13 17:54:39.786585"
+  },
+  "-N4SlZSXiQh-ilmg5p6n": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623139,
+    "longitude": 31.5600758,
+    "snapshot_datetime": "2022-06-13 17:54:44.450715"
+  },
+  "-N4Sl_hZH0sg0b7dj7wh": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623137,
+    "longitude": 31.5600815,
+    "snapshot_datetime": "2022-06-13 17:54:49.572263"
+  },
+  "-N4SlcUKs4xR_ALHj0r3": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623137,
+    "longitude": 31.5600817,
+    "snapshot_datetime": "2022-06-13 17:55:00.949348"
+  },
+  "-N4Slco5RHvxkMD84Pwy": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623137,
+    "longitude": 31.5600817,
+    "snapshot_datetime": "2022-06-13 17:55:02.278852"
+  },
+  "-N4SsVOiwsTe4zzZHJOa": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623007,
+    "longitude": 31.5600997,
+    "snapshot_datetime": "2022-06-13 18:25:02.829962"
+  },
+  "-N4SsW2CSGd-2EmfT1pM": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623007,
+    "longitude": 31.5600997,
+    "snapshot_datetime": "2022-06-13 18:25:05.485004"
+  },
+  "-N4SsXShqE_PQ8x9DHvH": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623007,
+    "longitude": 31.5600997,
+    "snapshot_datetime": "2022-06-13 18:25:11.277591"
+  },
+  "-N4SsYWd2_kK2T0qC2X7": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623,
+    "longitude": 31.5601035,
+    "snapshot_datetime": "2022-06-13 18:25:15.624958"
+  },
+  "-N4SsZjzIMmDBxUjspPd": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623,
+    "longitude": 31.5601035,
+    "snapshot_datetime": "2022-06-13 18:25:20.639150"
+  },
+  "-N4Ss_uaxzWJ5Kofc99c": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623117,
+    "longitude": 31.5600816,
+    "snapshot_datetime": "2022-06-13 18:25:25.414420"
+  },
+  "-N4SsbHcSj3lSJ8U9GhB": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623117,
+    "longitude": 31.5600816,
+    "snapshot_datetime": "2022-06-13 18:25:31.048367"
+  },
+  "-N4SsdHjs4Ks-F1BnzNV": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623121,
+    "longitude": 31.5600801,
+    "snapshot_datetime": "2022-06-13 18:25:39.247044"
+  },
+  "-N4SsdlW6fgRvBC5U-2x": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623121,
+    "longitude": 31.5600801,
+    "snapshot_datetime": "2022-06-13 18:25:41.217370"
+  },
+  "-N4SsepalJNpxDsjo3xf": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.5623051,
+    "longitude": 31.5600912,
+    "snapshot_datetime": "2022-06-13 18:25:45.574352"
+  },
+  "-N4SsgNE5GU2N4_W3rL6": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.562304,
+    "longitude": 31.5600927,
+    "snapshot_datetime": "2022-06-13 18:25:51.887048"
+  },
+  "-N4SshUlcPbVssLDwcRl": {
+    "collector_id": "257",
+    "device_id": "a685f0f069042727",
+    "latitude": 30.562304,
+    "longitude": 31.5600927,
+    "snapshot_datetime": "2022-06-13 18:25:56.465310"
+  },
+  "meta-data": {
+    "collector_id": 257
+  }
+}
